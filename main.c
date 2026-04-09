@@ -6,6 +6,7 @@
  * Authors:
  *   Owen Serjak
  *   Julien Bolduc
+ *   Nolan Wrigley
  *
  ************************************************************/
 
@@ -35,8 +36,8 @@
 /* ============================================================
  *                  Temperature Fault Thresholds
  * ============================================================ */
-#define TEMP_WARNING_C       (30)    // Warning threshold
-#define TEMP_HARD_FAULT_C    (35)    // Hard fault threshold
+#define TEMP_WARNING_C       (31)    // Warning threshold
+#define TEMP_HARD_FAULT_C    (33)    // Hard fault threshold
 /* ------------------------------------------------------------ */
 
 
